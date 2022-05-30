@@ -1,0 +1,33 @@
+# Anotações da Aula 1: Introdução à Programação e Pensamento Computacional
+
+# O que é "Pensamento Computacional"? 
+Processo de pensamento estruturado que visa solucionar um problema em passos/algoritmos que possam ser implementados no computador;
+Formulação e resolução de problemas de forma sistemática e eficiente.
+
+# Pilares do Pensamento Computacional:
+
+1) Decomposição: Dado um grande problema que não conseguimos resolver, podemos quebrá-lo em partes menores e mais fáceis de serem gerenciadas e resolvidas. 
+Necessário focar nos componentes do problema principal e identificar suas características e dependências;
+
+2) Reconhecimento de Padrões: Construir um objeto a partir de algo que já está estruturado/padronizado. 
+Características bem determinadas que não se modificam e que se repetem.
+Estabelecer padrões é vantajoso pois generaliza uma solução que pode servir para mais de um problema. Extração de características e classificação dos dados;
+
+3) Abstração: Processo de isolamento de um objeto da realidade para que este possa ser analisado. 
+Generalização de suas propriedades para que ele consiga ser utilizado em situações diversas.
+Generalizar consiste em reunir numa classe geral um conjunto de seres/objetos/fenômenos similares.
+Classificação a partir das características e pontos essenciais;
+
+4) Design de Algoritmos: Processo de resolução de problemas passo a passo, seguindo instruções. 
+Na análise se faz o estudo de definição dos dados de entrada e saída.
+O algoritmo descreve o problema por meio de ferramentas como narrativas, fluxograma ou pseudocódigo. 
+Depois, o algoritmo é codificado numa linguagem de programação.
+
+# O que é "Raciocínio Lógico"?
+Forma de pensamento estruturado que permite encontrar a conclusão ou determinar a solução de um problema. Classificado em 3 tipos:
+
+1) Indução: Estipulação de leis e teorias basedas no cenário a ser observado;
+2) Dedução: Dada uma lei ou teoria, surgem previsões e explicações baseadas naquela lei;
+3) Abdução: Utiliza a conclusão para determinar a premissa. É um tipo de raciocínio que pode acarretar em erro.
+
+
